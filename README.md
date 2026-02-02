@@ -123,5 +123,3 @@ All visualizations executed successfully.
 Udisha Paik
 Code Alpha Intern 
 Data Analysis & Visualization
-
-## Project Structure
